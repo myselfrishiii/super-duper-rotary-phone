@@ -1,1 +1,13 @@
-
+{
+  "slug": "samsara",
+  "title": "Samsara",
+  "description": "The cycle of birth, death, and rebirth.",
+  "date": "2024-03-01",
+  "categories": ["Philosophy", "Religion"],
+  "tags": ["Buddhism", "Hinduism", "Karma"],
+  "infobox": {
+    "Meaning": "Cycle of rebirth",
+    "Related": "Karma, Moksha"
+  },
+  "body": "# Samsara\n\nSamsara is the repeating cycle of birth, life, death and rebirth.\n\n## Concept\n\nIt is closely tied to ideas of karma and liberation.\n\nSee also: [Karma](/wiki/karma) and [Dharma](/wiki/dharma).\n\n![Wheel](https://upload.wikimedia.org/wikipedia/commons/2/21/Samsara_example.jpg \"Wheel of samsara\")"
+}
