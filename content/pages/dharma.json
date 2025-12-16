@@ -1,1 +1,13 @@
-
+{
+  "slug": "dharma",
+  "title": "Dharma",
+  "description": "The principle of cosmic order and duty in Indian religions.",
+  "date": "2024-02-01",
+  "categories": ["Philosophy", "Religion"],
+  "tags": ["Buddhism", "Hinduism", "Jainism"],
+  "infobox": {
+    "Origin": "Ancient India",
+    "Related": "Karma, Dharmaśāstra"
+  },
+  "body": "# Dharma\n\nDharma is a key concept in several Indian religions. It has multiple meanings depending on context.\n\n## Meaning\n\nDharma can refer to law, duty, righteousness, or the inherent nature of something.\n\n## In Buddhism\n\nBuddhists often use the term to mean the teachings of the Buddha.\n\nFor more, see [Karma](/wiki/karma).\n\n![Temple](https://upload.wikimedia.org/wikipedia/commons/6/6a/Temple_example.jpg \"A temple example image\")"
+}
